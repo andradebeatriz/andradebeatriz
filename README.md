@@ -25,10 +25,6 @@
 <br>
       
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=andradebeatriz&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
-  <img height=190 width=330 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradebeatriz&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
-  <br>
-  <br>
   <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andradebeatriz&theme=omni"/>
 </div>
 

@@ -18,22 +18,29 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/bia_♡-black" />
+  <img src="https://img.shields.io/badge/Bia_♡-black" />
 </div>
       
 <br>
 <br>
       
 <div align="center">
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andradebeatriz&theme=omni"/>
+  <img align="center" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andradebeatriz&theme=omni&animation=draw&duration=2&name=Beatriz+Andrade&title_color=bd5187&icon_color=ae8db4"/>
+  <br><br>
+  <div style="display: inline_block">
+    <img align="center" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andradebeatriz&theme=omni&animation=draw&duration=2&title_color=bd5187&icon_color=ae8db4"/>
+    &nbsp;&nbsp;
+    <img align="center" alt="Top Language by commit"  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andradebeatriz&theme=omni&animation=draw&duration=2&title_color=bd5187&icon_color=ae8db4"/>
+  </div>
 </div>
 
 <div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
